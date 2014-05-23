@@ -1,4 +1,4 @@
-mongodb-hadoop-examples
+MongoDB Hadoop Examples
 =======================
 
 MongoDB Hadoop Examples
